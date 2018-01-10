@@ -61,6 +61,7 @@ public class UniKinEmotion : MonoBehaviour
             Debug.Log(rotNum / 2);
             Debug.Log(posNum2 / 2);
             Debug.Log(rotNum2 / 2);
+
         }
     }
     // Y軸を基準にした回転の一致度の比較
